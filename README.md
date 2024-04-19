@@ -12,19 +12,20 @@ To install the URL Tracker Service, you'll need Node.js and npm installed on you
 
 2. Navigate to the project directory:
    ```bash
-cd urltracker-service
+   cd urltracker-service
 
 3.  Install the required dependencies:
-
-npm install
+    ```bash
+    npm install
 
 4. To start the server, run:
-
-npm start
+   ```bash
+   npm start
 
 The server will start on port 3001 by default. You can access the API at:
 
-http://localhost:3001/preview
+   ```bash
+   http://localhost:3001/preview
 
 To use the API, send a POST request to /preview with the URL you want to track and analyze.
 
