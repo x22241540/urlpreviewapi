@@ -28,7 +28,9 @@ http://localhost:3001/preview
 
 To use the API, send a POST request to /preview with the URL you want to track and analyze.
 
-Features
-Health Check Endpoint: Verify server health at http://localhost:3001/.
+Features:
+
+Health Check Endpoint - Verify server health at http://localhost:3001/.
+
 URL Preview: Generate a preview of the URL with title, description, and image.
 
