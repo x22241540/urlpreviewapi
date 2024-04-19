@@ -27,6 +27,8 @@ The server will start on port 3001 by default. You can access the API at:
    ```bash
    http://localhost:3001/preview
 
+__
+
 To use the API, send a POST request to /preview with the URL you want to track and analyze.
 
 Features:
