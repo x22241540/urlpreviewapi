@@ -11,7 +11,7 @@ To install the URL Tracker Service, you'll need Node.js and npm installed on you
    git clone [repository-url]
 
 2. Navigate to the project directory:
-
+   ```bash
 cd urltracker-service
 
 3.  Install the required dependencies:
