@@ -24,8 +24,7 @@ To install the URL Tracker Service, you'll need Node.js and npm installed on you
 
 The server will start on port 3001 by default. You can access the API at:
 
-   ```bash
-   http://localhost:3001/preview
+http://localhost:3001/preview
 
 
 5. To use the API, send a POST request to /preview with the URL you want to track and analyze.
